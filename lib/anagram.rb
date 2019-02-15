@@ -9,7 +9,8 @@ def inititalize(word)
   
 end
 
-def match
+def match()
+  
   
 end
 
