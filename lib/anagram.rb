@@ -6,12 +6,10 @@ class Anagram
   
 def inititalize(word)
   @words = word
-  
 end
 
 def match(array)
   array.select {|x| x.split("").sort == @words.split("").sort
-  
 end
 
 
