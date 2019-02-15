@@ -2,10 +2,10 @@
 
 
 class Anagram
-  attr_reader :anagram
+  attr_reader :word
   
-def inititalize(anagram)
-  @anagram = anagram
+def inititalize(word)
+  @word = words
   
 end
 
