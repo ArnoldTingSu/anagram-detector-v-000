@@ -4,7 +4,7 @@
 class Anagram
   attr_reader :words
   
-def inititalize(word)
+def initialize(word)
   @words = word
 end
 
