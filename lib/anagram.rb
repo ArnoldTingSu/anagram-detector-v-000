@@ -10,7 +10,7 @@ def inititalize(word)
 end
 
 def match(array)
-  array.select {|x| x.split
+  array.select {|x| x.split("")
   
   
 end
