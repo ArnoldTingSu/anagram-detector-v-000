@@ -9,4 +9,8 @@ def inititalize(anagram)
   
 end
 
+def match
+  
+end
+
 end
